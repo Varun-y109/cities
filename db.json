@@ -1,5 +1,5 @@
-
-  {
+{
+  "619d": {
     "id": "619d",
     "cityName": "Mysore",
     "country": "India",
@@ -11,7 +11,7 @@
       "lng": "76.65402782173175"
     }
   },
-  {
+  "8902": {
     "id": "8902",
     "cityName": "Delhi",
     "country": "India",
@@ -23,100 +23,4 @@
       "lng": "77.21209173044605"
     }
   },
-  {
-    "id": "14f9",
-    "cityName": "Canberra",
-    "country": "Australia",
-    "emoji": "🇦🇺",
-    "date": "2023-07-05T18:56:31.000Z",
-    "notes": "fun",
-    "position": {
-      "lat": "-35.31081100255997",
-      "lng": "149.098643661158"
-    }
-  },
-  {
-    "id": "2f9b",
-    "cityName": "Colombo",
-    "country": "Sri Lanka",
-    "emoji": "🇱🇰",
-    "date": "2024-02-28T18:58:06.256Z",
-    "notes": "fun",
-    "position": {
-      "lat": "6.9261859168173725",
-      "lng": "79.87106041565768"
-    }
-  },
-  {
-    "id": "36fe",
-    "cityName": "Sharjah",
-    "country": "United Arab Emirates (the)",
-    "emoji": "🇦🇪",
-    "date": "2024-02-28T18:58:41.030Z",
-    "notes": "fun",
-    "position": {
-      "lat": "25.341485152421946",
-      "lng": "55.44020549900754"
-    }
-  },
-  {
-    "id": "dc3d",
-    "cityName": "Washington",
-    "country": "United States of America (the)",
-    "emoji": "🇺🇸",
-    "date": "2023-07-04T18:59:42.000Z",
-    "notes": "fun",
-    "position": {
-      "lat": "38.83921892010764",
-      "lng": "-76.94705798791166"
-    }
-  },
-  {
-    "id": "c3f0",
-    "cityName": "Pozuelo de Calatrava",
-    "country": "Spain",
-    "emoji": "🇪🇸",
-    "date": "2024-02-28T20:50:46.761Z",
-    "notes": "",
-    "position": {
-      "lat": "38.90725623238055",
-      "lng": "-3.8218196423957678"
-    }
-  },
-  {
-    "id": "cb80",
-    "cityName": "Navalcarnero",
-    "country": "Spain",
-    "emoji": "🇪🇸",
-    "date": "2024-02-28T20:50:49.080Z",
-    "notes": "",
-    "position": {
-      "lat": "40.27888440900188",
-      "lng": "-4.084955239985029"
-    }
-  },
-  {
-    "id": "f458",
-    "cityName": "Mayorga",
-    "country": "Spain",
-    "emoji": "🇪🇸",
-    "date": "2024-02-28T20:50:51.097Z",
-    "notes": "",
-    "position": {
-      "lat": "42.14653953739909",
-      "lng": "-5.293593678973686"
-    }
-  },
-  {
-    "id": "2db1",
-    "cityName": "Damoh",
-    "country": "India",
-    "emoji": "🇮🇳",
-    "date": "2024-02-28T20:57:52.085Z",
-    "notes": "",
-    "position": {
-      "lat": "23.523700058824144",
-      "lng": "79.36523437500001"
-    }
-  }
-
+}
